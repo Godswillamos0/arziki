@@ -7,3 +7,4 @@ reportlab
 pandas
 joblib
 python-multipart
+pydantic[email]
