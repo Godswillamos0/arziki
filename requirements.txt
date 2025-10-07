@@ -9,3 +9,4 @@ joblib
 python-multipart
 pydantic[email]
 sklearn
+scikit-learn
