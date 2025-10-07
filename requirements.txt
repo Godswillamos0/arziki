@@ -6,3 +6,4 @@ langchain
 reportlab
 pandas
 joblib
+python-multipart
