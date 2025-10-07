@@ -4,3 +4,5 @@ langchain_groq
 dotenv
 reportlab
 re
+pandas
+joblib
